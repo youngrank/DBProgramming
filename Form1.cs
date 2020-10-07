@@ -21,7 +21,7 @@ namespace DBProgramming
 
         private void buttonOK_Click_1(object sender, EventArgs e)
         {
-            textBoxDisplay.Text = "Hello world~!!";
+            textBoxDisplay.Text = "Hello world";
         }
     }
 }
