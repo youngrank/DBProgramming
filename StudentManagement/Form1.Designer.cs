@@ -104,7 +104,6 @@
             this.comboBoxStudent1Gender.Name = "comboBoxStudent1Gender";
             this.comboBoxStudent1Gender.Size = new System.Drawing.Size(121, 20);
             this.comboBoxStudent1Gender.TabIndex = 5;
-            this.comboBoxStudent1Gender.SelectedIndexChanged += new System.EventHandler(this.comboBoxStudent1Gender_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -121,7 +120,6 @@
             this.textBoxStudent1ID.Name = "textBoxStudent1ID";
             this.textBoxStudent1ID.Size = new System.Drawing.Size(121, 21);
             this.textBoxStudent1ID.TabIndex = 3;
-            this.textBoxStudent1ID.TextChanged += new System.EventHandler(this.textBoxStudent1ID_TextChanged);
             // 
             // label2
             // 
@@ -139,7 +137,6 @@
             this.textBoxStudent1Name.Size = new System.Drawing.Size(121, 21);
             this.textBoxStudent1Name.TabIndex = 1;
             this.textBoxStudent1Name.Text = "학생정보 없음";
-            this.textBoxStudent1Name.TextChanged += new System.EventHandler(this.textBoxStudent1Name_TextChanged);
             // 
             // label1
             // 
